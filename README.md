@@ -1,12 +1,21 @@
-# React + Vite
+E-commerce landing page design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ 🚀 Demo
+Live Link: (https://e-comm-brown-five.vercel.app/)
 
-Currently, two official plugins are available:
+## 📌 Features
+- Fast ⚡ and optimized build using Vite
+- Modern UI with React + TailwindCSS
+- Responsive design for all devices
+- Easy deployment on Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, TailwindCSS  
+- **Deployment:** Vercel  
 
-## Expanding the ESLint configuration
+## 📂 Project Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repo:
+```bash
+git clone https://github.com/dh859/E-comm.git
+cd E-comm
